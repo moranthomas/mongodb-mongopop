@@ -30,7 +30,7 @@
     "ee-first": "^1.1.1",
     "ejs": "^2.5.2",
     "express": "^4.13.4",
-    "external-ip": "^0.2.4",
+    "external-ip": "^1.1.0",
     "jade": "~1.11.0",
     "methods": "^1.1.2",
     "mongodb": "^2.2.5",
