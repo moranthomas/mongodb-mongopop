@@ -22,7 +22,7 @@
     "@angular/platform-browser-dynamic": "2.0.0-rc.6",
     "@angular/router": "3.0.0-rc.2",
     "@angular/upgrade": "2.0.0-rc.6",
-    "bootstrap": "^3.3.6",
+    "bootstrap": "^4.0.0",
     "core-js": "^2.4.1",
     "gulp": "^3.9.1",
     "reflect-metadata": "^0.1.3",
